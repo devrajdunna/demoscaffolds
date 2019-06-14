@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  bname: MyString
+  bwriter: MyText
+  bprise: 1
+
+two:
+  bname: MyString
+  bwriter: MyText
+  bprise: 1
